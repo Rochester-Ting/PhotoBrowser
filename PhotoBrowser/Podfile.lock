@@ -1,0 +1,20 @@
+PODS:
+  - SDWebImage (3.7.2):
+    - SDWebImage/Core (= 3.7.2)
+  - SDWebImage/Core (3.7.2)
+  - SVProgressHUD (1.1)
+  - YLGIFImage (0.11)
+
+DEPENDENCIES:
+  - SDWebImage
+  - SVProgressHUD
+  - YLGIFImage
+
+SPEC CHECKSUMS:
+  SDWebImage: 71b7cdc1d1721d6a82ed62889030225f2c249e29
+  SVProgressHUD: 54de4d9ab38aa3f688da401f5766a5738084e7fb
+  YLGIFImage: c0ae132fe80e5282b2762a97d14e23ba71a748ae
+
+PODFILE CHECKSUM: bd1316affca6e2bbd806cabbe8df0239882af80b
+
+COCOAPODS: 1.0.1
